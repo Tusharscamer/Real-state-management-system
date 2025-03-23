@@ -1,1 +1,1 @@
-This is REal State Management System Web page 
+This is Real State Management System Web page 
